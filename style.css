@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px 0;
+    margin: 0;
+    text-align: center;
+}
+
+span {
+    border-bottom: 2px solid black;
+    padding: 4px;
+}
+
+button {
+    margin: 20px 0;
+    background: rgb(255, 255, 255);
+    color: black;
+    border: 1px solid black;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 10px 16px;
+}
+#clear {
+    color: #fff;
+    background-color: rgb(75, 37, 37);
+}
+input {
+    width: 11.5pc;
+    height: 1.75pc;
+}
